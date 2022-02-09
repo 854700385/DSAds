@@ -22,7 +22,7 @@ pod 'DSAds'
 
 ## Author
 
-董硕, dongs1@kingnet.com
+  dongs, 854700385@qq.com
 
 ## License
 
