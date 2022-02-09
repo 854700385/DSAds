@@ -1,0 +1,6 @@
+framework module DSAds {
+  umbrella header "DSAds-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_DSAds_Tests {
+  umbrella header "Pods-DSAds_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -7,6 +7,7 @@
 //
 
 #import "DSViewController.h"
+#import "DS_AdsTokenTool.h"
 
 @interface DSViewController ()
 
@@ -17,6 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+	[DS_AdsTokenTool requestAdsInfo:^(DS_AdsToeknRequsetResult code) {
+		NSLog(@"code = %ld",code);
+	}];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

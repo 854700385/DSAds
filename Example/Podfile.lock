@@ -1,0 +1,16 @@
+PODS:
+  - DSAds (0.1.0)
+
+DEPENDENCIES:
+  - DSAds (from `../`)
+
+EXTERNAL SOURCES:
+  DSAds:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DSAds: fc1820f51665ee07b45013e1d831644f01acc74c
+
+PODFILE CHECKSUM: b26699dbdff9d0ebc8fc17fa8a3ab7599dd2e9ee
+
+COCOAPODS: 1.11.2
